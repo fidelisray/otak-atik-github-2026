@@ -1,0 +1,4 @@
+Resolusi di Tahun 2026
+- Menguasai Pemrograman Java
+- Menguasai Spring 
+- Menguasai Javascript
