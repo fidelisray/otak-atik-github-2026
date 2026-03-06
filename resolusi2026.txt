@@ -1,4 +1,10 @@
 Resolusi di Tahun 2026
 - Menguasai Pemrograman Java
+  * paham threading
+  * paham overloading dan overriding
+  * paham memory management
 - Menguasai Spring 
 - Menguasai Javascript
+  * hoisting
+  * closure
+  * asynchronous
