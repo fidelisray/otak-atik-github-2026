@@ -16,3 +16,4 @@ HAL HAL YANG PERLU DI PELAJARI DAN DIKUASAI
 2. Object Oriented Programming
   * Class
   * Object
+  * Inheritance
