@@ -9,4 +9,6 @@ Resolusi di Tahun 2026
   * closure
   * asynchronous
 - Menguasai Framework Javascript
- * Angular
+ * React JS
+ * Node JS
+- Memahami Konsep MVC
