@@ -8,3 +8,5 @@ Resolusi di Tahun 2026
   * hoisting
   * closure
   * asynchronous
+- Menguasai Framework Javascript
+ * Angular
