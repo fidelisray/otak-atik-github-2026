@@ -17,3 +17,5 @@ HAL HAL YANG PERLU DI PELAJARI DAN DIKUASAI
   * Class
   * Object
   * Inheritance
+  * Encapsulation
+  * Interface
