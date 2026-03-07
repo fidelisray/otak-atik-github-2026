@@ -5,9 +5,11 @@ HAL HAL YANG PERLU DI PELAJARI DAN DIKUASAI
   * ekspresi
   * variabel
   * tipe data
-    - primitive
-    - non-primitive
+    - primitive (byte, short, int, long, float, double, char, boolean)
+    - non-primitive (String, Array, Class, Interface, Enum, Wrapper Class)
   * pengkondisian
   * operator
+    - Aritmatika
+    - logika
   * perulangan
   * fungsi
