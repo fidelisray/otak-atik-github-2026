@@ -12,3 +12,4 @@ Resolusi di Tahun 2026
  * React JS
  * Node JS
 - Memahami Konsep MVC
+- Mempelajari Go Lang
