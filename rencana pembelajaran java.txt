@@ -1,0 +1,7 @@
+HAL HAL YANG PERLU DI PELAJARI DAN DIKUASAI
+1. Konsep konsep dasar java programming
+  * variabel
+  * deklarasi
+  * inisiasi
+  * ekspresi
+  * perulangan
