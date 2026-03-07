@@ -1,0 +1,19 @@
+HAL HAL YANG PERLU DI PELAJARI DAN DIKUASAI
+1. Konsep konsep dasar java programming
+  * deklarasi
+  * inisiasi
+  * ekspresi
+  * variabel
+  * tipe data
+    - primitive (byte, short, int, long, float, double, char, boolean)
+    - non-primitive (String, Array, Class, Interface, Enum, Wrapper Class)
+  * pengkondisian
+  * operator
+    - Aritmatika
+    - logika
+  * perulangan
+  * fungsi
+2. Object Oriented Programming
+  * Class
+  * Object
+  * Inheritance
