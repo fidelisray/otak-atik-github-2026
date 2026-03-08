@@ -9,7 +9,9 @@ Resolusi di Tahun 2026
   * closure
   * asynchronous
 - Menguasai Framework Javascript
- * React JS
- * Node JS
+  * React JS
+  * Node JS
 - Memahami Konsep MVC
-- Mempelajari Go Lang
+- Mempelajari Go Lan
+- Review Ulang Pembelajaran SQL
+  * Fundamental SQL Query
