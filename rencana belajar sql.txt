@@ -1,4 +1,4 @@
-RENCANA BELAJAR SQL
+RENCANA PEMBELAJARAN SQL
 1. Setup PostgreSQL
 2. Sintaks query SQL dasar
 3. Membuat database pertama
