@@ -1,1 +1,4 @@
 RENCANA BELAJAR SQL
+1. Setup PostgreSQL
+2. Setup MariaDB
+3. Sintaks SQL dasar
