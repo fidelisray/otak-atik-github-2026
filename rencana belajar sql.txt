@@ -1,1 +1,4 @@
 RENCANA PEMBELAJARAN SQL
+1. Setup MySQL
+2. Sintaks query SQL dasar
+3. Membuat database pertama
